@@ -1,3 +1,5 @@
+// https://www.codingame.com/playgrounds/365/getting-started-with-rust/primitive-data-types
+
 fn main() {
     // Arrays in Rust must be initialized at compile time
     // Array size = 10, and initialized to 5
